@@ -1,0 +1,7 @@
+python-dotenv
+redis 
+requests 
+boto3
+pyvirtualdisplay
+pyautogui
+seleniumbase
